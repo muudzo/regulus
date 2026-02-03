@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Regulus.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580c7d904b1140a1e29f61c49541d675da038b24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4d3b6e5f83924bebe0aabfe43b23c6037e8685")]
 [assembly: System.Reflection.AssemblyProductAttribute("Regulus.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Regulus.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

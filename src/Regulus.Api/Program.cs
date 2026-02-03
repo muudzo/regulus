@@ -1,4 +1,4 @@
-using Microsoft.OpenApi.Models;
+
 using Regulus.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,14 +9,8 @@ builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-builder.Services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "Regulus API",
-        Version = "v1"
-    });
-});
+builder.Services.AddSwaggerGen();
+
 
 builder.Services.AddHealthChecks();
 
