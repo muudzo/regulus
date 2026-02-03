@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Regulus.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853cd08a0ab00b1cb9a291055605aa2cce8937f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580c7d904b1140a1e29f61c49541d675da038b24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Regulus.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Regulus.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
