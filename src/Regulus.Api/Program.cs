@@ -32,7 +32,7 @@ app.UseHttpsRedirection();
         ))
         .ToArray();
     return forecast;
-})
+});
 .WithName("GetWeatherForecast");
 
 app.Run();

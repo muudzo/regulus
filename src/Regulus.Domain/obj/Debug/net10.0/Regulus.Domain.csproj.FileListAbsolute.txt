@@ -1,0 +1,12 @@
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/bin/Debug/net10.0/Regulus.Domain.deps.json
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/bin/Debug/net10.0/Regulus.Domain.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/bin/Debug/net10.0/Regulus.Domain.pdb
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.AssemblyInfoInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.AssemblyInfo.cs
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.csproj.CoreCompileInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.sourcelink.json
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/refint/Regulus.Domain.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/Regulus.Domain.pdb
+/Users/michaelnyemudzo/regulus/src/Regulus.Domain/obj/Debug/net10.0/ref/Regulus.Domain.dll

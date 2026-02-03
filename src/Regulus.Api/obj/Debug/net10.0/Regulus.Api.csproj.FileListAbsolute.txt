@@ -1,0 +1,9 @@
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.csproj.AssemblyReference.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.AssemblyInfoInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.AssemblyInfo.cs
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.csproj.CoreCompileInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Api/obj/Debug/net10.0/Regulus.Api.sourcelink.json

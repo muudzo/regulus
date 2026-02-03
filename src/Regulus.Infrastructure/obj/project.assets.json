@@ -264,6 +264,29 @@
             "related": ".xml"
           }
         }
+      },
+      "Regulus.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Regulus.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Regulus.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Regulus.Application.dll": {}
+        }
+      },
+      "Regulus.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Regulus.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Regulus.Domain.dll": {}
+        }
       }
     }
   },
@@ -688,11 +711,23 @@
         "npgsql.entityframeworkcore.postgresql.nuspec",
         "postgresql.png"
       ]
+    },
+    "Regulus.Application/1.0.0": {
+      "type": "project",
+      "path": "../Regulus.Application/Regulus.Application.csproj",
+      "msbuildProject": "../Regulus.Application/Regulus.Application.csproj"
+    },
+    "Regulus.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Regulus.Domain/Regulus.Domain.csproj",
+      "msbuildProject": "../Regulus.Domain/Regulus.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0",
+      "Regulus.Application >= 1.0.0",
+      "Regulus.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -719,7 +754,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/michaelnyemudzo/regulus/src/Regulus.Application/Regulus.Application.csproj": {
+              "projectPath": "/Users/michaelnyemudzo/regulus/src/Regulus.Application/Regulus.Application.csproj"
+            },
+            "/Users/michaelnyemudzo/regulus/src/Regulus.Domain/Regulus.Domain.csproj": {
+              "projectPath": "/Users/michaelnyemudzo/regulus/src/Regulus.Domain/Regulus.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

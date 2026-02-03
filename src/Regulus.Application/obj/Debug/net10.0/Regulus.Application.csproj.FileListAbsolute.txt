@@ -1,0 +1,16 @@
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/bin/Debug/net10.0/Regulus.Application.deps.json
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/bin/Debug/net10.0/Regulus.Application.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/bin/Debug/net10.0/Regulus.Application.pdb
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/bin/Debug/net10.0/Regulus.Domain.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/bin/Debug/net10.0/Regulus.Domain.pdb
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.csproj.AssemblyReference.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.AssemblyInfoInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.AssemblyInfo.cs
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.csproj.CoreCompileInputs.cache
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.sourcelink.json
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus..6FEDE177.Up2Date
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/refint/Regulus.Application.dll
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/Regulus.Application.pdb
+/Users/michaelnyemudzo/regulus/src/Regulus.Application/obj/Debug/net10.0/ref/Regulus.Application.dll
