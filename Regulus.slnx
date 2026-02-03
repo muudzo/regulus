@@ -1,2 +1,9 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Regulus.Api/Regulus.Api.csproj" />
+    <Project Path="src/Regulus.Application/Regulus.Application.csproj" />
+    <Project Path="src/Regulus.Domain/Regulus.Domain.csproj" />
+    <Project Path="src/Regulus.Infrastructure/Regulus.Infrastructure.csproj" />
+    <Project Path="src/Regulus.Worker/Regulus.Worker.csproj" />
+  </Folder>
 </Solution>
